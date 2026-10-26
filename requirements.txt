@@ -1,0 +1,5 @@
+mcp[cli]<2
+aisuite[openai,mcp]>=0.1.13
+requests
+python-dotenv
+pytse-client
